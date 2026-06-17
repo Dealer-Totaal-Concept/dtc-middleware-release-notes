@@ -4,6 +4,7 @@ This repository contains public release notes for DTC Middleware.
 
 ## Available Releases
 
+- [v1.9.2](./v1.9.2.md)
 - [v1.9.1](./v1.9.1.md)
 - [v1.9.0](./v1.9.0.md)
 - [v1.8.0](./v1.8.0.md)
